@@ -1,0 +1,16 @@
+Components:
+
+* mh-z19 sensor:
+    2D pins
+* display TM1637:
+    2D pins
+* clock rtc:
+    2D pins
+* temp/hum dht22 sensor:
+    1D pin
+* button
+    1D pin
+
+Total board digital pins needed: 8
+
+board used: Arduino UNO
